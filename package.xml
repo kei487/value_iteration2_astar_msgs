@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>ike_nav_msgs</name>
+  <name>value_iteration2_astar_msgs</name>
   <version>0.0.0</version>
-  <description>The ikebe_navigation package</description>
-  <maintainer email="beike315@icloud.com">Tatsuhiro Ikebe</maintainer>
+  <description>The masages package for value_teration2 with astar</description>
+  <maintainer email="keitaro@gmail.com">Keitaro Nakamura</maintainer>
   <license>Apache-2.0</license>
 
   <buildtool_depend>ament_cmake_auto</buildtool_depend>
